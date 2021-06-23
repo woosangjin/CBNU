@@ -9,4 +9,6 @@
 3.4가지의부류 1)man, 2)woman, 3)boy, girl로 분류 하여 각각의 폴더에 저장한다.
 
 ![image](https://user-images.githubusercontent.com/23616987/123044350-7d451780-d434-11eb-935d-d1a7421ae0d9.png)
+
+
 <개념도>
