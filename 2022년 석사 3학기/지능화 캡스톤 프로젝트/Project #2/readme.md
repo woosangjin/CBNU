@@ -14,4 +14,6 @@
   2. 발표 자료 취합
   3. 발표
 
- 
+ ※ 프로젝트 수행환경
+  1. GOOGLE COLAB(PRO)
+  2. GOOGLE DRIVE (데이터셋 업로드)
