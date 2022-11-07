@@ -8,4 +8,5 @@
 
 ※ 첨부파일
  
- = test_images.zip (test 이미지 및 라벨파일)
+ 1) test_images.zip (test 이미지 및 라벨파일)
+ 2) 결과자료.pptx (테스트결과)
