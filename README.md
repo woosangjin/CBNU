@@ -3,5 +3,4 @@
 
 1. Project 진행현황
 
-![image](https://user-images.githubusercontent.com/23616987/200303868-1e64bb16-91ac-4d2b-8b80-5cbeaa4c88d9.png)
-
+![image](https://user-images.githubusercontent.com/23616987/200464302-d0b4dc35-80a0-432e-8e61-94d68c2ded3f.png)
